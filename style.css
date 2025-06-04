@@ -1,0 +1,57 @@
+/*STEVENSTORE EN */
+.navbar-brand {
+    font-weight: bold;
+}
+
+/*altura del navbar*/
+.custom-navbar-height {
+    height: 40px;
+}
+
+/*altura de las imagenes de productos destacados */
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+
+
+/* stilo del boton de buscar */
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.top-50 {
+    top: 50%;
+}
+
+.end-0 {
+    right: 0;
+}
+
+.translate-middle-y {
+    transform: translateY(-50%);
+}
+
+.me-3 {
+    margin-right: 1rem;
+}
+
+
+/* estilo carousel de imagenes*/
+.img-carousel {
+    height: 400px;
+    object-fit: cover;
+}
+
+
+/*quita azul y subrrrayado de los enlaces*/
+
+a {
+    color: inherit;
+}
+
